@@ -1,4 +1,4 @@
-## 🎵 BeatBox - Music Streaming Backend API
+# 🎵 BeatBox - Music Streaming Backend API
 
 BeatBox is a Node.js + Express + MongoDB based backend API for managing and streaming songs with authentication & file uploads (image + audio).
 It supports song upload, playback (audio streaming), user registration/login, and featured songs.
